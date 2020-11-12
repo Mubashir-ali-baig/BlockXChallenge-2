@@ -1,2 +1,2 @@
-Used remix to verify the code.
-Used the getter/setter approach to add.
+Used remix to compile and run the code.
+Used the getter/setter approach to add and retrive the value.
